@@ -1,6 +1,6 @@
 import portfolio from '../assets/portfolio.png'
 import pokemon from '../assets/pokemon.jpg'
-import weather from '../assets/weather.jpg'
+import weather from '../assets/Weather.jpg'
 import AI from '../assets/AI.jpg'
 import UtsavRai from '../assets/UtsavRai.pdf'
 
