@@ -1,0 +1,24 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="110" y1="64" x2="1110" y2="575" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050505" />
+      <stop offset="0.5" stop-color="#0F172A" />
+      <stop offset="1" stop-color="#020617" />
+    </linearGradient>
+    <linearGradient id="g2" x1="192" y1="110" x2="1006" y2="524" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A855F7" />
+      <stop offset="0.52" stop-color="#38BDF8" />
+      <stop offset="1" stop-color="#22D3EE" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="60" fill="url(#g1)" />
+  <circle cx="210" cy="140" r="190" fill="#A855F7" fill-opacity="0.22" />
+  <circle cx="970" cy="120" r="220" fill="#38BDF8" fill-opacity="0.18" />
+  <circle cx="900" cy="510" r="230" fill="#22D3EE" fill-opacity="0.14" />
+  <rect x="92" y="96" width="1016" height="438" rx="36" fill="white" fill-opacity="0.05" stroke="white" stroke-opacity="0.14" />
+  <text x="132" y="210" fill="white" font-family="Inter, Arial, sans-serif" font-size="64" font-weight="700">Utsav Rai</text>
+  <text x="132" y="278" fill="#CDE7FF" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="500">Full Stack Developer Portfolio</text>
+  <text x="132" y="358" fill="#D8B4FE" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="500">React • Vue • TypeScript • Node.js • Playwright</text>
+  <rect x="132" y="410" width="324" height="78" rx="22" fill="url(#g2)" fill-opacity="0.92" />
+  <text x="168" y="460" fill="#020617" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700">Premium portfolio experience</text>
+</svg>

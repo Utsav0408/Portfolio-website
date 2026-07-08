@@ -1,0 +1,18 @@
+{
+  "name": "Utsav Rai Portfolio",
+  "short_name": "Utsav Rai",
+  "description": "Premium full stack developer portfolio built with React, Vue, TypeScript, Node.js, and test automation.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
