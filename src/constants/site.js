@@ -1,8 +1,8 @@
-import portfolio from '../assets/portfolio.png'
-import pokemon from '../assets/pokemon.jpg'
-import weather from '../assets/weather.jpg'
-import AI from '../assets/AI.jpg'
-import UtsavRai from '../assets/UtsavRai.pdf'
+// import portfolio from '../assets/portfolio.png'
+// import pokemon from '../assets/pokemon.jpg'
+// import weather from '../assets/weather.jpg'
+// import AI from '../assets/AI.jpg'
+// import UtsavRai from '../assets/UtsavRai.pdf'
 
 
 
@@ -167,7 +167,7 @@ export const projects = [
     slug: 'my-vie',
     title: 'Personalized Learning Assistant (MY VIE)',
     category: 'AI App',
-    image: AI,
+    // image: AI,
     summary:
       'An AI-powered learning assistant integrated with Gemini API for question answering, PDF context retrieval, and voice/text interactions.',
     description:
@@ -187,7 +187,7 @@ export const projects = [
   {
     slug: 'weather-forecast-app',
     title: 'Weather Forecast App',
-    image: weather,
+    // image: weather,
     category: 'Web App',
     summary:
       'A live weather dashboard with Chart.js visualizations, API response caching, and dynamic gradients based on conditions.',
@@ -208,7 +208,7 @@ export const projects = [
   {
     slug: 'pokedex-team-builder',
     title: 'Pokedex & Team Builder',
-    image: pokemon,
+    // image: pokemon,
     category: 'Web App',
     summary:
       'An interactive Pokédex with search, filtering, and a team-builder module consuming a public REST API.',
@@ -229,7 +229,7 @@ export const projects = [
   {
     slug: 'portfolio-website',
     title: 'Portfolio Website',
-    image: portfolio,
+    // image: portfolio,
     category: 'Portfolio',
     summary:
       'A responsive personal portfolio built to showcase projects, skills, and achievements with a modern accessible UI.',
